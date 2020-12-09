@@ -4,7 +4,7 @@
 
 Hi, I'm Sandip Baikare, a Full Stack Developer 🚀 from Pune, India. Currently, I'm a Sr. Software Developer 🙍🏽‍♂️ [@Xoriant Corporation](https://twitter.com/Xoriant),  a Former Engineer at [ParadisoSolutions](https://github.com/ParadisoSolutions). Beside's programming, I enjoy eating food and traveling.
 
-  <img align="right" alt="GIF" src="https://github.com/baikaresandip/baikaresandip/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="Sandip Baikare code image" src="https://raw.githubusercontent.com/baikaresandip/baikaresandip/main/code.gif" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
@@ -27,3 +27,6 @@ Hi, I'm Sandip Baikare, a Full Stack Developer 🚀 from Pune, India. Currently,
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
