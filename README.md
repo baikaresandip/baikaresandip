@@ -4,7 +4,7 @@
 
 Hi, I'm Sandip Baikare, a Full Stack Developer 🚀 from Pune, India. Currently, I'm a Sr. Software Developer 🙍🏽‍♂️ [@Xoriant Corporation](https://twitter.com/Xoriant),  a Former Engineer at [ParadisoSolutions](https://github.com/ParadisoSolutions). Beside's programming, I enjoy eating food and traveling.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/baikaresandip/baikaresandip/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
