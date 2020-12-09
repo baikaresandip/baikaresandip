@@ -9,7 +9,7 @@ Hi, I'm Sandip Baikare, a Full Stack Developer 🚀 from Pune, India. Currently,
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning GraphQL and C++; 
+- 🌱 I’m currently learning ReactJS and GraphQL; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@BaikareSandeep](https://twitter.com/BaikareSandeep);
 
