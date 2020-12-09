@@ -2,7 +2,7 @@
 
 <br />
 
-Hi, I'm Sandip Baikare, a Full Stack Developer 🚀 from Pune, India. Currently, I'm a Sr. Software Developer 🙍🏽‍♂️ [@XoriantOpenSource](https://github.com/XoriantOpenSource),  a Former Engineer at [ParadisoSolutions](https://github.com/ParadisoSolutions). Beside's programming, I enjoy eating food and traveling.
+Hi, I'm Sandip Baikare, a Full Stack Developer 🚀 from Pune, India. Currently, I'm a Sr. Software Developer 🙍🏽‍♂️ [@Xoriant Corporation](https://twitter.com/Xoriant),  a Former Engineer at [ParadisoSolutions](https://github.com/ParadisoSolutions). Beside's programming, I enjoy eating food and traveling.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
@@ -21,6 +21,7 @@ Hi, I'm Sandip Baikare, a Full Stack Developer 🚀 from Pune, India. Currently,
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
