@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/baikaresandip/baikaresandi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-You can view this page here: https://baikaresandip.github.io/baikaresandip/
+You can view this page here: [https://baikaresandip.github.io/baikaresandip/](https://baikaresandip.github.io/baikaresandip/)
 
 ### Markdown
 
