@@ -2,7 +2,7 @@
 
 <br />
 
-Hi, I'm **Sandip Baikare**, Web Developer 🚀 from Pune, India. I am Enthusiastic WordPress, wooCommerce lover :heart:. Currently, I'm a Sr. Software Developer 🙍🏽‍♂️ [@Xoriant Corporation](https://twitter.com/Xoriant),  a Former Engineer at [ParadisoSolutions](https://github.com/ParadisoSolutions). Beside's programming, I enjoy eating food and traveling.
+Hi, I'm **Sandip Baikare**, Web Developer 🚀 from Pune, India. I am Enthusiastic WordPress, wooCommerce lover :heart:. Currently, I'm a 💻 Sr. Software Developer 🙍🏽‍♂️ [@Xoriant Corporation](https://twitter.com/Xoriant),  a Former Engineer at [ParadisoSolutions](https://github.com/ParadisoSolutions). Beside's programming, I enjoy eating food and traveling.
 
   <img align="right" alt="Sandip Baikare code image" src="https://raw.githubusercontent.com/baikaresandip/baikaresandip/main/code.gif" width="500" height="320" />
   
@@ -11,7 +11,7 @@ Hi, I'm **Sandip Baikare**, Web Developer 🚀 from Pune, India. I am Enthusiast
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning ReactJS and GraphQL; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@BaikareSandeep](https://twitter.com/BaikareSandeep);
+- 📫 How to reach me:✉️ [@BaikareSandeep](https://twitter.com/BaikareSandeep);
 
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
