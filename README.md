@@ -1,5 +1,15 @@
 ### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<a href="https://twitter.com/BaikareSandeep">
+  <img align="left" alt="Sandip Baikare | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/sandip-baikare/">
+  <img align="left" alt="Sandip's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+
+![](https://visitor-badge.glitch.me/badge?page_id=baikaresandip/baikaresandip)
+
 <br />
 
 Hi, I'm **Sandip Baikare**, Web Developer 🚀 from Pune, India. I am Enthusiastic WordPress, wooCommerce Developer and lover :heart:. Currently, I'm a 💻 Sr. Software Developer 🙍🏽‍♂️ [@Xoriant Corporation](https://twitter.com/Xoriant),  a Former Engineer at [ParadisoSolutions](https://github.com/ParadisoSolutions). Beside's programming, I enjoy eating food and traveling.
@@ -31,7 +41,7 @@ Hi, I'm **Sandip Baikare**, Web Developer 🚀 from Pune, India. I am Enthusiast
 <br><br>
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
-🏆  643 **Stackoverflow** points - [See here](https://stackoverflow.com/users/3431899/baikare-sandip) <br>
+🏆  673 **Stackoverflow** points - [See here](https://stackoverflow.com/users/3431899/baikare-sandip) <br>
 ⌛  329 **Wordpress Development** Stackoverflow points - [See here](https://wordpress.stackexchange.com/users/99404/baikare-sandeep)<br>
 🚀  113 **Salesforce** Stackoverflow points - [See here](https://salesforce.stackexchange.com/users/61660/baikare-sandeep)<br>
 <!-- TODO-IST:END -->
