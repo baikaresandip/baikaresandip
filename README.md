@@ -1,9 +1,9 @@
 ### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://twitter.com/BaikareSandeep">
+<a target="_blank" href="https://twitter.com/BaikareSandeep">
   <img align="left" alt="Sandip Baikare | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/sandip-baikare/">
+<a target="_blank" href="https://www.linkedin.com/in/sandip-baikare/">
   <img align="left" alt="Sandip's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
