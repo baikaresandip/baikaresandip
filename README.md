@@ -41,9 +41,9 @@ Hi, I'm **Sandip Baikare**, Web Developer 🚀 from Pune, India. I am Enthusiast
 <br><br>
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
-🏆  673 **Stackoverflow** points - [See here](https://stackoverflow.com/users/3431899/baikare-sandip) <br>
-⌛  329 **Wordpress Development** Stackoverflow points - [See here](https://wordpress.stackexchange.com/users/99404/baikare-sandeep)<br>
-🚀  113 **Salesforce** Stackoverflow points - [See here](https://salesforce.stackexchange.com/users/61660/baikare-sandeep)<br>
+🏆  673 **Stackoverflow** Reputations - [See here](https://stackoverflow.com/users/3431899/baikare-sandip) <br>
+⌛  329 **Wordpress Development** Stackoverflow Reputations - [See here](https://wordpress.stackexchange.com/users/99404/baikare-sandeep)<br>
+🚀  113 **Salesforce** Stackoverflow Reputations - [See here](https://salesforce.stackexchange.com/users/61660/baikare-sandeep)<br>
 <!-- TODO-IST:END -->
 
 
