@@ -12,7 +12,7 @@
 
 <br />
 
-Hi, I'm **Sandip Baikare**, Web Developer 🚀 from Pune, India. I am Enthusiastic WordPress, wooCommerce Developer and lover :heart:. Currently, I'm a 💻 Sr. Software Developer 🙍🏽‍♂️ [@Xoriant Corporation](https://twitter.com/Xoriant),  a Former Engineer at [ParadisoSolutions](https://github.com/ParadisoSolutions). Beside's programming, I enjoy eating food and traveling.
+Hi, I'm **Sandip Baikare**, Web Developer 🚀 from Pune, India. I am Enthusiastic WordPress, wooCommerce Developer and lover :heart:. Currently, I'm a 💻 Sr. Software Developer 🙍🏽‍♂️ [Altudo](https://twitter.com/GoAltudo),  a Former Engineer at [@Xoriant Corporation](https://twitter.com/Xoriant) and [ParadisoSolutions](https://github.com/ParadisoSolutions). Beside's programming, I enjoy eating food and traveling.
 
   <img align="right" alt="Sandip Baikare code image" src="https://raw.githubusercontent.com/baikaresandip/baikaresandip/main/code.gif" width="500" height="320" />
   
