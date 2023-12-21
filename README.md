@@ -1,13 +1,13 @@
-### Hey There
+### Hey There 👋
 
-Follow me on Twitter and LinkedIn:
+Follow me on Twitter and LinkedIn 👇:
 <br />
 <a target="_blank" href="https://twitter.com/BaikareSandeep">
-  @BaikareSandeep
+  🐦 @BaikareSandeep
 </a>
 <br />
 <a target="_blank" href="https://www.linkedin.com/in/sandip-baikare/">
-  LinkedIn 
+  LinkedIn 🔗
 </a>
 
 
