@@ -1,16 +1,15 @@
-### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey There
 
-<a target="_blank" href="https://twitter.com/BaikareSandeep">
-  <img align="left" alt="Sandip Baikare | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a target="_blank" href="https://www.linkedin.com/in/sandip-baikare/">
-  <img align="left" alt="Sandip's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-
-![](https://visitor-badge.glitch.me/badge?page_id=baikaresandip/baikaresandip)
-
+Follow me on Twitter and LinkedIn:
 <br />
+<a target="_blank" href="https://twitter.com/BaikareSandeep">
+  @BaikareSandeep
+</a>
+<br />
+<a target="_blank" href="https://www.linkedin.com/in/sandip-baikare/">
+  LinkedIn 
+</a>
+
 
 Hi, I'm **Sandip Baikare**, Web Developer 🚀 from Pune, India. I am Enthusiastic WordPress, wooCommerce Developer and lover :heart:. Currently, I'm a 💻 Sr. Software Developer 🙍🏽‍♂️ [Altudo](https://twitter.com/GoAltudo),  a Former Engineer at [@Xoriant Corporation](https://twitter.com/Xoriant) and [ParadisoSolutions](https://github.com/ParadisoSolutions). Beside's programming, I enjoy eating food and traveling.
 
